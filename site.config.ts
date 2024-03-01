@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Life Meaningless Co., Ltd.',
-  domain: 'https://fluttering-beard-75a.notion.site/Life-Meaningless-Co-Ltd-7c2fd1dfb1a4400f8b6ed0c21cc2a387',
+  domain: 'https://fluttering-beard-75a.notion.site/Life-Meaningless-Co-Ltd-7c2fd1dfb1a4400f8b6ed0c21cc2a387?pvs=4',
   author: 'Koi',
 
   // open graph metadata (optional)
